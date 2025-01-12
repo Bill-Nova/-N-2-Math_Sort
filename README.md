@@ -1,8 +1,7 @@
-I think it's because subtraction replaces the comparison operation.
+I think it's because subtraction replaces the comparison operation. Equivalent to the relative position of the sequence
 -----
 
 example
-------
 
 Add[]=1,10,7,2,8
 
