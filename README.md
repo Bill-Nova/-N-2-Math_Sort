@@ -25,3 +25,6 @@ a,b,c,d,e -> a,(b+c),-c,(d+c),e
 
 a.....n -> a,(b+(c1.....cn)),(c<--->cn),(d+(c1.....cn))....n
 -------------------------
+
+Using operation 2 can indeed calculate the result quickly, but I have a hard time imagining how to find the optimal solution
+---------
