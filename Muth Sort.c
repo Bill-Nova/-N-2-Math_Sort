@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
+//N^2
+
 int main(){
 	int NULL_Add_NULL;
 	int Sort_Add[21];
