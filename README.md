@@ -24,3 +24,6 @@ a,b,c,d,e -> a,(b+c),-c,(d+c),e
 
 a.....n -> a,(b+(c1.....cn)),-(c<--->cn),(d+(c1.....cn))....n
 -------------------------
+
+If you come up with something new, please let me know.
+------------------
